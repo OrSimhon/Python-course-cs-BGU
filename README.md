@@ -1,4 +1,4 @@
-# Assignments solutions for Python course for computer science, BGU
+## Assignments solutions for Python course for computer science, BGU
 
 ## HW 1
 Conditions + Loops + Lists
