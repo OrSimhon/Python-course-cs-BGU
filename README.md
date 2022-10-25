@@ -3,23 +3,23 @@
 ### HW 1
 Conditions + Loops + Lists
 
-## HW 2
+### HW 2
 Functions + Advanced Loops
 
-## HW 3
+### HW 3
 Strings + Dictionaries
 
-## HW 4
+### HW 4
 Recursion
 
-## HW 5
+### HW 5
 Object Oriented
 
-## HW 6
+### HW 6
 Image Processing
 
-## HW 7
+### HW 7
 Functional Programming + Data Structures (Linked Lists, Queue)
 
-## HW 8
+### HW 8
 Final Assignment: OOP, Linked Lists, BST
