@@ -1,6 +1,6 @@
 ## Assignments solutions for Python course for computer science, BGU
 
-## HW 1
+### HW 1
 Conditions + Loops + Lists
 
 ## HW 2
